@@ -3,6 +3,7 @@ package swissknife
 import (
 	"github.com/sirupsen/logrus"
 	"time"
+	"os"
 )
 
 // NewJSONLogger
